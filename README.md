@@ -1,6 +1,6 @@
 # Multimodal Medical AI: Vision-Language Alignment, XAI, and RAG
 
-[![Kaggle](https://www.kaggle.com/code/atenazare/chest-ai-assistance)
+[Kaggle](https://www.kaggle.com/code/atenazare/chest-ai-assistance)
 
 An end-to-end PyTorch framework for analyzing chest X-rays using multimodal deep learning. This project integrates a dual-encoder vision-language architecture, gradient-based Explainable AI (XAI), and a Retrieval-Augmented Generation (RAG) pipeline to ground radiological images in medical text.
 
