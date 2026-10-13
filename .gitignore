@@ -1,0 +1,5 @@
+# model checkpoints are too big for GitHub
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/

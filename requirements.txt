@@ -1,0 +1,12 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
+accelerate
+scikit-learn
+scipy
+pandas
+numpy
+opencv-python
+matplotlib
+tqdm
+faiss-cpu
