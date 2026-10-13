@@ -158,9 +158,9 @@ For each test image, I show the heatmap for the text "pleural effusion". The fir
      the first one is [patch_embed], the second one is [last_block].
      File names: figures/03_heatmaps_patch_embed.png and figures/04_heatmaps_last_block.png -->
 <p align="center">
-  <img src="figures/03_heatmaps_patch_embed.png" width="45%" alt="Heatmaps from the patch embedding layer">
+  <img src="results/03_heatmaps_patch_embed.png" width="45%" alt="Heatmaps from the patch embedding layer">
   &nbsp;
-  <img src="figures/04_heatmaps_last_block.png" width="45%" alt="Heatmaps from the last block">
+  <img src="results/04_heatmaps_last_block.png" width="45%" alt="Heatmaps from the last block">
 </p>
 <p align="center"><i>Left: patch embedding layer. Right: last transformer block.</i></p>
 
