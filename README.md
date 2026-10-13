@@ -297,4 +297,4 @@ figures/                    # images used in this README
 
 I'm **Fatemeh Zare**. I have an MSc in Software Engineering, and my research background is in computer vision and explainable AI. I'm now moving into medical AI, and this project is part of that path.
 
-If you have any questions or ideas, feel free to open an issue or contact me: [your email or LinkedIn]
+If you have any questions or ideas, feel free to open an issue or contact me: [zrefatimah@gmail.com]
