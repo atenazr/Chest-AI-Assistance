@@ -280,21 +280,5 @@ results/                    # CSV files from the notebook
 figures/                    # images used in this README
 ```
 
-## Main papers I used
-
-- Radford et al. (2021). *Learning transferable visual models from natural language supervision* (CLIP). ICML.
-- Zhai et al. (2023). *Sigmoid loss for language image pre-training* (SigLIP). ICCV.
-- Zhang et al. (2022). *Contrastive learning of medical visual representations from paired images and text* (ConVIRT). MLHC.
-- Wang et al. (2022). *MedCLIP: Contrastive learning from unpaired medical images and text.* EMNLP.
-- Selvaraju et al. (2017). *Grad-CAM.* ICCV.
-- Adebayo et al. (2018). *Sanity checks for saliency maps.* NeurIPS.
-- Saporta et al. (2022). *Benchmarking saliency methods for chest X-ray interpretation.* Nature Machine Intelligence.
-- Endo et al. (2021). *Retrieval-based chest X-ray report generation using a pre-trained contrastive language-image model* (CXR-RePaiR). ML4H.
-- Demner-Fushman et al. (2016). *Preparing a collection of radiology examinations for distribution and retrieval* (IU X-ray). JAMIA.
-- Wang et al. (2017). *ChestX-ray8* (NIH ChestX-ray14). CVPR.
-
-## About me
-
-I'm **Fatemeh Zare**. I have an MSc in Software Engineering, and my research background is in computer vision and explainable AI. I'm now moving into medical AI, and this project is part of that path.
 
 If you have any questions or ideas, feel free to open an issue or contact me: [zrefatimah@gmail.com]
